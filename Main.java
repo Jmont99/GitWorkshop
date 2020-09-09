@@ -25,6 +25,9 @@ public class Main
                 case 0:
                     order.printOrder();
                     break;
+                case 6:
+                    order.printOrder();
+                    break;
                 //put your case below this comment
             }
         }
